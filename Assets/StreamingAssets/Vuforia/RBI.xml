@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="5FRONT" size="0.150000 0.079200" />
+    <ImageTarget name="BACK5" size="0.150000 0.079562" />
+    <ImageTarget name="20NEWBACK" size="0.150000 0.057523" />
+    <ImageTarget name="20NEWFRONT" size="0.150000 0.055561" />
+    <ImageTarget name="FRONT10OLD" size="0.150000 0.068438" />
+    <ImageTarget name="BACK100OLD" size="0.150000 0.070869" />
+    <ImageTarget name="BACK10old" size="0.150000 0.068403" />
+    <ImageTarget name="BACK2000" size="0.150000 0.058631" />
+    <ImageTarget name="BACK500NEW" size="0.150000 0.072909" />
+    <ImageTarget name="BACK200" size="0.150000 0.062500" />
+    <ImageTarget name="BACK100NEW" size="0.150000 0.068421" />
+    <ImageTarget name="BACK50NEW" size="0.150000 0.062500" />
+    <ImageTarget name="BACK20" size="0.150000 0.064286" />
+    <ImageTarget name="BACK10new" size="0.150000 0.077474" />
+    <ImageTarget name="OLD50FRONT" size="0.150000 0.075562" />
+    <ImageTarget name="NEW100FRONT" size="0.150000 0.070546" />
+    <ImageTarget name="NEW50FRONT" size="0.150000 0.073513" />
+    <ImageTarget name="NEW20FRONT" size="0.150000 0.063929" />
+    <ImageTarget name="2000NEW" size="0.150000 0.060250" />
+    <ImageTarget name="200NEW" size="0.150000 0.067750" />
+    <ImageTarget name="100OLD" size="0.150000 0.069545" />
+    <ImageTarget name="10NEW" size="0.150000 0.072500" />
+    <ImageTarget name="FRONT500" size="0.150000 0.066710" />
+  </Tracking>
+</QCARConfig>
